@@ -7,3 +7,4 @@
 For more information, you can check out:
 - [intro](https://streamfork.com/docs/intro/)
 - [install](https://streamfork.com/docs/tutorial-install/install/)
+- [download](https://streamfork.com/docs/releases/)
